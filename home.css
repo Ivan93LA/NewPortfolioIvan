@@ -1,0 +1,37 @@
+
+body {
+
+    background-image: url(Img/geometric-black-abstract-tk6vyhwr8n38zubk.jpg);
+    color: bisque;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.container {
+    text-align: left;
+}
+
+
+h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+p.role {
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: -10px;
+}
+
+.contact {
+    margin-top: 100px;
+}
+
+.btn{
+
+
+
+}
