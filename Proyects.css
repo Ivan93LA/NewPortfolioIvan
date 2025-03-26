@@ -1,0 +1,11 @@
+body {
+
+    background-image: url(Img/thumb-1920-71578.jpg);
+    color: bisque;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
